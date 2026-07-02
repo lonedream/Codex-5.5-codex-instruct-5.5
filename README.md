@@ -11,12 +11,10 @@
 ## 交流 / Community
 
 - QQ AI 技术交流群：扫码加入
-- QQ AI 技术交流群 2：扫码加入
 - TG 交流群：[@Geminivip1](https://t.me/Geminivip1)
 
 <p align="center">
-  <img width="260" alt="QQ AI 技术交流群二维码" src="assets/ai-tech-group.png" />
-  <img width="260" alt="QQ AI 技术交流群 2 二维码" src="assets/ai-tech-group-2.png" />
+  <img width="360" alt="QQ AI 技术交流群二维码" src="assets/ai-tech-group.png" />
 </p>
 
 ## 这是什么 / What
@@ -75,8 +73,7 @@ python codex-instruct.py
 ```
 codex-instruct-5.5/
 ├── assets/
-│   ├── ai-tech-group.png                   # QQ AI 技术交流群二维码
-│   └── ai-tech-group-2.png                 # QQ AI 技术交流群 2 二维码
+│   └── ai-tech-group.png                   # QQ AI 技术交流群二维码
 ├── codex-instruct.py                    # 主脚本
 ├── examples/
 │   └── gpt5.5-unrestricted.md           # 破甲指令独立副本
