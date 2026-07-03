@@ -8,14 +8,6 @@
 
 ---
 
-## 交流 / Community
-
-- QQ AI 技术交流群：扫码加入
-- TG 交流群：[@Geminivip1](https://t.me/Geminivip1)
-
-<p align="center">
-  <img width="360" alt="QQ AI 技术交流群二维码" src="assets/ai-tech-group.png" />
-</p>
 
 ## 这是什么 / What
 
